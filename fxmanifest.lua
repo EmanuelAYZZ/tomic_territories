@@ -28,3 +28,9 @@ files {
   'web/script.js',
   'web/style.css'
 }
+
+dependencies {
+    'rprogress',
+    'ox_lib',
+    'ox_inventory',
+}
